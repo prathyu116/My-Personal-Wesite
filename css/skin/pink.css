@@ -1,0 +1,20 @@
+.aside .logo a::before{
+    border-top: 4px solid #ec1839;
+    border-left: 4px solid #ec1839;
+}
+.aside .logo a::after{
+    border-bottom: 4px solid #ec1839;
+    border-right: 4px solid #ec1839;
+}
+h3 span,.service-item-inner .icon .fa,
+.aside .nav li a:hover,
+.aside .nav li a.active1{
+    color:#ec1839 ;
+}
+.btn,.service-item-inner .icon:hover,
+.progress-in,.circle-dot,.timeline .timeline-item::before,
+.title h1::before,.title h1::after,.aside .nav-toggler span,
+.aside .nav-toggler span::before,.aside .nav-toggler span::after,
+.social-link a{
+    background-color: #ec1839;
+}
